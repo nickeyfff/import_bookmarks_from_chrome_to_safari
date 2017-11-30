@@ -12,8 +12,9 @@ A better way to import booksmark without running Safari.
 ### Require
 
 biplist
-
-
+```
+sudo easy_install biplist
+```
 ## import_bookmarks.applescript
 
 A applescript to import bookmarks from Chrome to Safari.
